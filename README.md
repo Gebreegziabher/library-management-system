@@ -2,7 +2,7 @@
 
 This system is developed for the purpose of a course project at Maharishi International University, USA.
 
-Library management portal is a simple java project where a librarian adds books, checks out books for students and tracks due dates. This system provides a user-friendly interface, satisfying the needs of the consumers.
+Library management system is a simple java project where a librarian adds books, checks out books for students and tracks due dates. This system provides a user-friendly interface, satisfying the needs of the consumers.
 
 The GUI(graphical user interface) is primarily developed using Java Swing.
 
